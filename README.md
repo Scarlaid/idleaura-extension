@@ -9,3 +9,6 @@
 
 ### Special Thanks
 Credits to <a href="https://github.com/PanIntegralus">PanIntegralus</a> for the game code extract, and Opera GX for the Idle Aura game.
+
+### Note
+Since the extension menu is limited to 800x600, this has to be launched in a separated tab, there are no workaround.
